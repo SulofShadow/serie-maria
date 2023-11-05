@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+h2{
+    padding-left: 50px;
+}
+table{
+    padding: 2px;
+    height: 350px;
+    width: 400px;
+
+}
+div{
+    margin-left: 100px;
+    padding-bottom: 50px;
+}
+thead th{
+    background-color: rgb(253, 255, 149);
+}
+#Ex{
+    color:rgb(231, 39, 221);
+
+}
+#imagem{
+    margin: 0 auto;
+    width: 50%;
+}
+a {
+    color: inherit;
+    color: rgb(231, 39, 221);
+}
+body {
+    background-color: rgb(240, 240, 255);
+}
+#maralto {
+    width: 200px;
+    float: right;
+}
+#marbaixo {
+    float: right;
+}
+img {
+    text-align: center;
+    padding: 20px;
+    width: 400px;
+}
