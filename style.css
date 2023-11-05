@@ -11,7 +11,6 @@ table{
 
 }
 div{
-    margin-left: 100px;
     padding-bottom: 50px;
 }
 thead th{
@@ -33,14 +32,16 @@ body {
     background-color: rgb(240, 240, 255);
 }
 #maralto {
-    width: 200px;
+    width: 100px;
     float: right;
 }
 #marbaixo {
     float: right;
+    padding: 1px;
+    margin: 1px;
 }
 img {
     text-align: center;
     padding: 20px;
-    width: 400px;
+    width: 350px;
 }
